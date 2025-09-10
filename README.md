@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirupathi8&label=Profile%20views&color=0e75b6&style=flat" alt="thirupathi8" /> </p>
 
-- 🔭 I’m currently working on [Web based Game](https://github.com/thirupathi8/webGame)
+- 🔭 I’m currently working at AppsLeap Technologies
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thirupathi8](https://github.com/thirupathi8)
 
-- 💬 Ask me about **mongoDB, express, react, node**
+- 💬 Ask me about **express, react, node**
 
 - 📫 How to reach me **thirupathipyati@gmail.com**
-
-- 📄 Know about my experiences [my resume](https://github.com/thirupathi8/resume/blob/main/Thirupathi's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
